@@ -18,7 +18,7 @@
     <jackson.databind.version>2.10.1</jackson.databind.version>
     <slf4j.version>1.7.25</slf4j.version>
     <httpcore.version>4.4.12</httpcore.version>
-    <httpclient.version>4.5.10</httpclient.version>
+    <httpclient.version>4.5.13</httpclient.version>
     <protobuf.version>3.6.1</protobuf.version>
   </properties>
 
